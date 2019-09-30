@@ -11,6 +11,12 @@
 [[main]]
   name = "Projects"
   url = "#projects"
+  weight = 20
+  
+  
+[[main]]
+  name = "Tools We Use"
+  url = "#tools"
   weight = 30
 
 [[main]]
