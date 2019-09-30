@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: David Henthorn
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Rose-Hulman Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include applying computers and technology to automation, chemical processes, and in chemical eduation.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chemical Process Modeling
+- Process Automation
+- Engineering Education
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Chemical Engineering
+    institution: Purdue University
+    year: 2004
+  - course: BS in Chemical Engineering
+    institution: Purdue University
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
