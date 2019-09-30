@@ -68,4 +68,4 @@ user_groups:
 
 Welcome to the laboratory website for David Henthorn in the Chemical Engineering Department at Rose-Hulman Institute of Technology in Terre Haute, IN USA. Our laboratory investigates the use of computers in process engineering and engineering education. 
 
-See the Projects tab for current projects, including enhancing the chemical engineering curriculum through augmented reality, edge and fog devices, use of DevOps tools in process engineering (ProcOps), and modernizing control systems with open protocols that facilitate data interchange.
+Current research projects include: enhancing the chemical engineering curriculum through augmented reality, implementation of edge and fog devices in Unit Ops labs, use of DevOps tools in process engineering (ProcOps), and modernizing control systems with open protocols that facilitate data interchange. See the "Projects" tab for more details.
